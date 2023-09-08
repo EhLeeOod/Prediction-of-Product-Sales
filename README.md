@@ -5,7 +5,7 @@
 ## The objective of this project is to predict sales for food items sold at various stores by helping the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+[CSV File](https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view?usp=drive_link)
 
 
 ## Methods
@@ -17,7 +17,7 @@ Data can include source and high-level description (e.g. # obs)
 #### Heatmap
 ![heatmap_sales](https://github.com/EhLeeOod/Prediction-of-Product-Sales/assets/25497173/a93a1ed5-ca2a-4ac5-8cfc-37bbc26eda48)
 
-> This heatmap shows that Item MRP and Item Outlet Sales have a moderately positive correlation.
+This heatmap shows that Item MRP and Item Outlet Sales have a moderately positive correlation.
 
 #### Countplot
 
