@@ -27,11 +27,11 @@ This countplot shows that Fruits and Vegetables are the Item Type that is sold i
 
 ## Model
 
-Describe your final model
+The recommended model for this business problem is the Random Forest model with tuning.
 
-Report the most important metrics
+This was the most appropriate model due to it having the highest R^2 score, 0.603, and the lowest Mean Absolute Error (MAE), 728.570.
 
-Refer to the metrics to describe how well the model would solve the business problem
+The R^2 score of 0.603 indicates that this model can account for 60.3% of outcome variation. The MAE of 728.570 indicates that the predictions wmade by the model were erroneous by an average of about 729 items.
 
 ## Recommendations:
 
