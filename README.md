@@ -7,10 +7,15 @@
 ### Data:
 [CSV File](https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view?usp=drive_link)
 
+Rows: 8,523
+Columns: 12
+
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Verified no duplicates were present
+- Fixed categorical inconsistencies to ensure accurate value counts for each feature
+- Imputed missing values as part of preprocessing for machine learning
+- Scaled numerical features as part of preprocessing for machine learning
 
 ## Results
 
@@ -35,13 +40,7 @@ The R^2 score of 0.603 indicates that this model can account for 60.3% of outcom
 
 ## Recommendations:
 
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
-
+Based off the visualizations above, further analysis concerning the 2 highest selling item types (Snack Foods, Fruits and Vegetables), as well as the correlation between Item MRP and Item Outlet Sales, is recommended.
 
 ### For further information
 
